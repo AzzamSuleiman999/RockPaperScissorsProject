@@ -1,0 +1,3 @@
+﻿  Project#2SPS.cpp
+C:\Users\SZ TECH\source\repos\Project#2SPS\Project#2SPS.cpp(57,1): warning C4715: 'WhoWinTheRound': not all control paths return a value
+  Project#2SPS.vcxproj -> C:\Users\SZ TECH\source\repos\Project#2SPS\x64\Debug\Project#2SPS.exe
